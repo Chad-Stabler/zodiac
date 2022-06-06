@@ -1,4 +1,8 @@
 import './App.css';
+import { zodiac } from './data.js';
+import header from './Header.js';
+import main from './Main.js';
+import footer from './Footer.js';
 {/* import the zodiac array */}
 
 function App() {
